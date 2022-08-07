@@ -5,11 +5,11 @@ static const Block blocks[] = {
 
 	{"", "nettraf",	1, 16},
 
+	{"", "cpu", 10, 14},
+
 	{"", "memory", 10, 14},
 
 	{"", "clock", 60, 1},
-
-	{"", "battery", 5, 3},
 
 	{"", "internet", 5, 4},
 };
